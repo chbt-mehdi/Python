@@ -4,11 +4,11 @@
 This project aims to predict heart attacks using various machine learning models. The analysis is performed on the `heart.csv` dataset.
 
 ## Models Used
-- Logistic Regression
-- K-Nearest Neighbors
-- Support Vector Machine
-- Decision Tree
-- Random Forest
+- Logistic Regression (log_clf)
+- Gaussian Naive Bayes (gnb)
+- Decision Tree (Tree)
+- Random Forest Classifier (rf)
+- Extreme Gradient Boost (xgb)
 
 ## Files in the Repository
 - `heart_attack_pred.ipynb`: Jupyter notebook containing the analysis and model building.
