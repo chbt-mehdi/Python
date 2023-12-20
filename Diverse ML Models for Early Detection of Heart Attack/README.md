@@ -1,4 +1,4 @@
-# Heart Attack Prediction Using ML Models
+# Diverse ML Models for Early Detection of Heart Attack
 
 ## Overview
 This project aims to predict heart attacks using various machine learning models. The analysis is performed on the `heart.csv` dataset.
