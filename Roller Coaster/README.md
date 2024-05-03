@@ -10,10 +10,9 @@ The goal of this project is to delve into the dataset and answer the following q
 2. **What materials are most commonly used in roller coaster construction?**
 3. **What is the oldest roller coaster that is currently in operation, and how many years has it been operational?**
 
+![avg_coast_speed](https://github.com/chbt-mehdi/Python/assets/124779301/2670af92-7b36-45c2-bf2f-7f8d283a41db)
 
 ![max_coaster_speed](https://github.com/chbt-mehdi/Python/assets/124779301/cc042ac4-05b7-474b-97cd-5cb152ef58c2)
-
-![avg_coast_speed](https://github.com/chbt-mehdi/Python/assets/124779301/2670af92-7b36-45c2-bf2f-7f8d283a41db)
 
 ![top10_oldest_operating_rc](https://github.com/chbt-mehdi/Python/assets/124779301/83709cf1-ff04-4bc6-a55a-e7d3c55a03c8)
 
