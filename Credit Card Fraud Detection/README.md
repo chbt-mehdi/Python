@@ -4,13 +4,13 @@
 
 ### Anomaly Detection:
 
-#### First place the One-class SVM detector model
+#### First place the One-class SVM detector model (Submission_ad_svm.csv)
 
 - Private Score 0.69378
 
 - Public Score 0.80974
   
-#### Second place the iforest model
+#### Second place the iforest model (Submission_ad.csv)
 
 - Private Score 0.68337
 
