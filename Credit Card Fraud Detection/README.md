@@ -2,6 +2,16 @@
 
 ## Kaggle Scores
 
+### Anomaly Detection:
+
+#### First place the One-class SVM detector model
+
+- Private Score 0.69378
+
+- Public Score 0.80974
+  
+#### Second place the iforest model
+
 - Private Score 0.68337
 
 - Public Score 0.80748
