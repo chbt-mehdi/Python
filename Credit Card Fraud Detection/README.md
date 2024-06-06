@@ -19,6 +19,7 @@
 ## Link
 
 Link : https://www.kaggle.com/competitions/credit-card-fraud-prediction
+
 project link : https://www.kaggle.com/code/mehdichaibat/credit-card-fraud-detection-part1
 
 ## Overview
